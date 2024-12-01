@@ -1,5 +1,7 @@
 ![Inteli.Gente Banner](images/Inteli.Gente.Banner.png)
 
+Video de Apresentação do Projeto: [https://www.youtube.com/watch?v=IDXk4vXD3y4](https://www.youtube.com/watch?v=IDXk4vXD3y4)
+
 # Análise do Nível de Maturidade Econômico Brasileiro
 
 Este repositório contém as informações coletadas ao longo do desenvolvimento do projeto da disciplina. O tópico motivador foi explorar os níveis de Maturidade das cidades, definidos na plataforma Inteli.gente (iniciativa do Ministério da Ciência, Tecnologia e Inovação - MCTI) e foram feitas análises sob diferentes prespectivas. A **aquisição dos dados é feita através de Web-scrapping**, descrita em detalhes na Seção 1 ([![Open with GitHub](https://img.shields.io/badge/Open_In_GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Rafaelsoz/Pratica-Ciencia-Dados-II/tree/main/docs/1.%20Scrapper)). Na mesma seção **é proposta uma técnica que alia Visualização exploratória e Seleção de Features**, aferindo o desempenho da metodologia para a tarefa de regressão.
